@@ -1,2 +1,2 @@
 # krv
-for my fanpage  kelvinrv.github.io.
+This is my personal website: https://kelvinrv.github.io/krv/
